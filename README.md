@@ -1,6 +1,4 @@
 # tictactoe-with-python
-
-
 ## What it does
 Plays tic tac toe
 
